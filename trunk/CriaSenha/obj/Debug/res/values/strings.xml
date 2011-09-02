@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Cria Senha!</string>
+    <string name="ApplicationName">CriaSenha</string>
+    <string name="tamSenha">Tamanho em caracteres</string>
+  <string name="soNumeros">Só números</string>
+</resources>

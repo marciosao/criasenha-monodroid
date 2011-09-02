@@ -1,0 +1,14 @@
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\bin\Debug\CriaSenha.dll
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\bin\Debug\CriaSenha.pdb
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\bin\Debug\CriaSenha.dll.mdb
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\bin\Debug\CriaSenha.CriaSenha.apk
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\bin\Debug\CriaSenha.CriaSenha-Signed.apk
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\CriaSenha.dll
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\CriaSenha.pdb
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\android\bin\CriaSenha.CriaSenha.apk
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\res\layout\main.axml
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\res\values\strings.xml
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\res\drawable\icon.png
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\R.cs.flag
+C:\Documents and Settings\55018335734\Meus documentos\Visual Studio 2010\Projects\CriaSenha\CriaSenha\obj\Debug\uploadflags.txt
